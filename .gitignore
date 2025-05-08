@@ -1,0 +1,9 @@
+*.merge_backup*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*.log
+
+binrepos.conf/
+gnupg/
+make.profile

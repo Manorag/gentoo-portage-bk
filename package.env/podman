@@ -1,0 +1,17 @@
+app-containers/podman compiler-clang
+app-containers/containers-common compiler-clang
+net-firewall/nftables compiler-clang
+net-firewall/iptables compiler-clang
+app-containers/conmon compiler-clang
+app-containers/crun compiler-clang
+dev-libs/yajl compiler-clang
+sys-fs/fuse-overlayfs compiler-clang
+app-containers/catatonit compiler-clang
+app-containers/netavark compiler-clang
+app-containers/aardvark-dns compiler-clang
+app-containers/containers-storage compiler-clang
+app-containers/containers-image compiler-clang
+net-libs/libnftnl compiler-clang
+net-misc/ethertypes compiler-clang
+net-misc/passt compiler-clang
+app-containers/containers-shortnames compiler-clang

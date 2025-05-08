@@ -1,0 +1,21 @@
+
+# required by dev-python/setuptools-69.5.1-r1::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+>=dev-python/platformdirs-4.2.2 python_targets_python3_11
+# required by dev-python/wheel-0.43.0::gentoo
+# required by dev-python/setuptools-69.5.1-r1::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+>=dev-python/gpep517-16 python_targets_python3_11
+# required by dev-python/backports-tarfile-1.1.1::gentoo
+# required by dev-python/jaraco-context-5.3.0::gentoo[python_targets_python3_11,-python_targets_python3_10]
+# required by dev-python/jaraco-text-3.12.0::gentoo
+# required by dev-python/setuptools-69.5.1-r1::gentoo
+# required by dev-python/setuptools-scm-8.1.0::gentoo[-test]
+>=dev-python/flit-core-3.9.0 python_targets_python3_11
+# required by dev-python/gpep517-16::gentoo
+# required by dev-python/mako-1.3.5::gentoo
+# required by media-libs/mesa-24.0.7::gentoo
+# required by kde-plasma/kwin-5.27.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/installer-0.7.0 python_targets_python3_11

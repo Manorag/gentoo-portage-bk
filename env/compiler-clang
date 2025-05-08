@@ -1,0 +1,18 @@
+# Normal settings here
+COMMON_FLAGS="-O2 -march=znver2 -pipe"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
+LLVM_TARGETS="AMDGPU X86"
+
+MAKEOPTS="-j12"
+
+CC="clang"
+CPP="clang-cpp" # necessary for xorg-server and possibly other packages
+CXX="clang++"
+
+AR="llvm-ar"
+AS=llvm-as
+NM="llvm-nm"
+RANLIB="llvm-ranlib"
+LD="ld.lld"
+STRIP="llvm-strip"

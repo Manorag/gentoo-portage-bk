@@ -1,0 +1,6 @@
+#ACCEPT DEPENDENCIES OBS
+media-video/ffmpeg opus 
+media-video/pipewire dbus
+#ACCEPT DPENDENCIES KDENLIVE
+#>=media-video/ffmpeg-4.4.4-r11 libass vpx
+#>=media-video/ffmpeg-6.1.1-r8 libass vpx
