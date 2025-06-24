@@ -1,1 +1,2 @@
 app-editors/emacs gui gtk -X
+app-edtiors/emacs -X gtk gui

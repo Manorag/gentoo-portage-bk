@@ -1,1 +1,1 @@
-#media-video/pipewire sound-server pipewire-alsa 
+#media-video/pipewire sound-server pipewire-alsa ffmpeg
