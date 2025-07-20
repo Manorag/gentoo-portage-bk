@@ -4,7 +4,7 @@ CFLAGS="${COMMON_FLAGS}"
 CXXFLAGS="${COMMON_FLAGS}"
 LLVM_TARGETS="AMDGPU X86"
 
-MAKEOPTS="-j6"
+MAKEOPTS="-j8"
 
 CC="clang"
 CPP="clang-cpp" # necessary for xorg-server and possibly other packages
