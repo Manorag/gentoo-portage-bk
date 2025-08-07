@@ -1,2 +1,2 @@
 #KERNEL RUST CONFIG
-dev-libs/rust-bin rust-src rustfmt clippy rust-analyzer
+dev-lang/rust-bin rust-src rustfmt clippy rust-analyzer
