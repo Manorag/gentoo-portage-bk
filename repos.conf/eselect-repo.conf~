@@ -17,7 +17,12 @@ location = /var/db/repos/librewolf
 sync-type = git
 sync-uri = https://codeberg.org/librewolf/gentoo.git
 
-[elementary]
-location = /var/db/repos/elementary
+
+[slack]
+location = /var/db/repos/slack
+
+[xlibre]
+location = /var/db/repos/xlibre
 sync-type = git
-sync-uri = https://github.com/pimvullers/elementary.git
+sync-uri = https://github.com/X11Libre/ports-gentoo.git
+
